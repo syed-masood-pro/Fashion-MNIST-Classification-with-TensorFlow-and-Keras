@@ -74,7 +74,7 @@ The model achieved a test accuracy of approximately **87.7%** with a test loss o
 git clone <repository_url>
 cd <repository_folder>
 pip install -r requirements.txt
-jupyter notebook fashion_mnist_classification.ipynb
+jupyter notebook Fashion_MNIST.ipynb
 ```
 
 ## Contributing
